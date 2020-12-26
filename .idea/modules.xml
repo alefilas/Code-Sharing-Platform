@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Code_Sharing_Platform.iml" filepath="$PROJECT_DIR$/.idea/modules/Code_Sharing_Platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/An anonymous class with three methods/Code_Sharing_Platform.Problems-An_anonymous_class_with_three_methods.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/An anonymous class with three methods/Code_Sharing_Platform.Problems-An_anonymous_class_with_three_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/An anonymous class with three methods/Code_Sharing_Platform.Problems-An_anonymous_class_with_three_methods.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/An anonymous class with three methods/Code_Sharing_Platform.Problems-An_anonymous_class_with_three_methods.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/An anonymous class with three methods/Code_Sharing_Platform.Problems-An_anonymous_class_with_three_methods.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/An anonymous class with three methods/Code_Sharing_Platform.Problems-An_anonymous_class_with_three_methods.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Impement a default method/Code_Sharing_Platform.Problems-Impement_a_default_method.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Impement a default method/Code_Sharing_Platform.Problems-Impement_a_default_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Impement a default method/Code_Sharing_Platform.Problems-Impement_a_default_method.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Impement a default method/Code_Sharing_Platform.Problems-Impement_a_default_method.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Impement a default method/Code_Sharing_Platform.Problems-Impement_a_default_method.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Impement a default method/Code_Sharing_Platform.Problems-Impement_a_default_method.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Resolve a diamond problem/Code_Sharing_Platform.Problems-Resolve_a_diamond_problem.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Resolve a diamond problem/Code_Sharing_Platform.Problems-Resolve_a_diamond_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Resolve a diamond problem/Code_Sharing_Platform.Problems-Resolve_a_diamond_problem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Resolve a diamond problem/Code_Sharing_Platform.Problems-Resolve_a_diamond_problem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Resolve a diamond problem/Code_Sharing_Platform.Problems-Resolve_a_diamond_problem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Resolve a diamond problem/Code_Sharing_Platform.Problems-Resolve_a_diamond_problem.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String reverser/Code_Sharing_Platform.Problems-String_reverser.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String reverser/Code_Sharing_Platform.Problems-String_reverser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String reverser/Code_Sharing_Platform.Problems-String_reverser.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String reverser/Code_Sharing_Platform.Problems-String_reverser.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String reverser/Code_Sharing_Platform.Problems-String_reverser.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String reverser/Code_Sharing_Platform.Problems-String_reverser.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Code_Sharing_Platform.util.test.iml" />
+    </modules>
+  </component>
+</project>

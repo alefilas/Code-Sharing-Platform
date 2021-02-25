@@ -12,7 +12,9 @@ function send() {
     xhr.setRequestHeader('Content-type', 'application/json; charset=utf-8');
     xhr.send(json);
 
+
     if (xhr.status == 200) {
-      alert("Success!");
+        let response = JSON.parse(xhr.response);
+        alert("Success! Id is " + response.id);
     }
 }
